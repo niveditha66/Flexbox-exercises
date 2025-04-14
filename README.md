@@ -1,5 +1,5 @@
 # Flexbox-exercises
-This repository contains a series of exercises focused on building foundational CSS Flexbox layout skills. Each folder under `foundations/flex` contains a specific layout task. Follow the instructions inside each exercise folder's `README.md` file to complete the tasks.
+This repository contains a series of exercises focused on building foundational CSS Flexbox layout skills. 
 
 ## Exercises
 
